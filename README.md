@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephalagi&show_icons=true&include_all_commits=true&hide_border=true" alt="Joseph's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephalagi&langs_count=8&layout=compact&hide_border=true" alt="Joseph's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-alagi-okebe&show_icons=true&include_all_commits=true&hide_border=true" alt="Joseph's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-alagi-okebe&langs_count=8&layout=compact&hide_border=true" alt="Joseph's GitHub stats" /> |
 | ------------- | ------------- |
