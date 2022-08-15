@@ -11,7 +11,7 @@ I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who cu
 - 🌱 I’m currently learning JavaScript, Open Source, HTML & CSS and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Product Manager and Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](file:///C:/Users/joseph.alagi/Downloads/Alagi%20Joseph%20PM-converted.pdf) and contact me by emailing alagijoseph6@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing alagijoseph6@gmail.com.
 
 ---
 
