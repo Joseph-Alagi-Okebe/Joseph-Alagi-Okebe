@@ -15,5 +15,9 @@ I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who cu
 
 ---
 
+## GITHUB STATS :bar_chart:
+<p align="center">VISITORS' COUNT</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Joseph-Alagi-Okebe}/count.svg" alt="Joseph-Alagi-Okebe :: Visitor's Count" /></p>
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-alagi-okebe&show_icons=true&include_all_commits=true&hide_border=true" alt="Joseph's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-alagi-okebe&langs_count=8&layout=compact&hide_border=true" alt="Joseph's GitHub stats" /> |
 | ------------- | ------------- |
