@@ -11,10 +11,10 @@ I'm a Cloud Engineering Student who currently works as a Media Executive at [Plu
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Open Source, HTML & CSS and Cloud Engineering.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, Product Manager and Cloud Engineer (Intern or Junior level).
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 I’m currently learning JavaScript, Open Source, HTML & CSS, and Cloud Engineering.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Front-end Engineer, Product Manager, and Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing alagijoseph6@gmail.com.
 
 ---
